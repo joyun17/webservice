@@ -2,3 +2,5 @@ org/example/webservice/web/dto/HelloResponseDtoTest.java
  org.example.webservice.web.dto.HelloResponseDtoTest
 org/example/webservice/web/HelloControllerTest.java
  org.example.webservice.web.HelloControllerTest
+org/example/webservice/domain/posts/PostsRepositoryTest.java
+ org.example.webservice.domain.posts.PostsRepositoryTest
