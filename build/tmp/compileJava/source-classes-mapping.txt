@@ -11,3 +11,10 @@ org/example/webservice/Application.java
 org/example/webservice/domain/posts/Posts.java
  org.example.webservice.domain.posts.Posts
  org.example.webservice.domain.posts.Posts$PostsBuilder
+org/example/webservice/service/posts/PostsService.java
+ org.example.webservice.service.posts.PostsService
+org/example/webservice/web/PostsApiController.java
+ org.example.webservice.web.PostsApiController
+org/example/webservice/web/dto/PostsSaveRequestDto.java
+ org.example.webservice.web.dto.PostsSaveRequestDto
+ org.example.webservice.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder

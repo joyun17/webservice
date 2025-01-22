@@ -4,3 +4,5 @@ org/example/webservice/web/HelloControllerTest.java
  org.example.webservice.web.HelloControllerTest
 org/example/webservice/domain/posts/PostsRepositoryTest.java
  org.example.webservice.domain.posts.PostsRepositoryTest
+org/example/webservice/web/dto/PostsApiControllerTest.java
+ org.example.webservice.web.dto.PostsApiControllerTest
