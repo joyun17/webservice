@@ -25,8 +25,8 @@ public class PostsRepositoryTest {
 
     @Test
     public void saveTest(){
-        String title = "테스트 게시글";
-        String content = "테스트 본문";
+        String title = "테스트 게시글test";
+        String content = "테스트 본문test";
 
         postsRepository.save(Posts.builder()
                 .title(title)
