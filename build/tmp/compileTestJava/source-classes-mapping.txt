@@ -6,3 +6,5 @@ org/example/webservice/web/dto/PostsApiControllerTest.java
  org.example.webservice.web.dto.PostsApiControllerTest
 org/example/webservice/domain/posts/PostsRepositoryTest.java
  org.example.webservice.domain.posts.PostsRepositoryTest
+org/example/webservice/web/IndexControllerTest.java
+ org.example.webservice.web.IndexControllerTest
