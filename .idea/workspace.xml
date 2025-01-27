@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5237a3-04d9-4e9a-8c0b-30a8c165c465" name="Changes" comment="수정 삭제 ui 기능 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/org/example/webservice/web/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/org/example/webservice/web/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/js/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/static/js/app/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout/header.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout/header.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/posts-save.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/posts-save.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/webservice/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/webservice/domain/posts/Posts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/webservice/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/webservice/web/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/app/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout/header.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/posts-save.mustache" afterDir="false" />
-    </list>
+    <list default="true" id="cd5237a3-04d9-4e9a-8c0b-30a8c165c465" name="Changes" comment="수정 삭제 ui 기능 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +244,7 @@
       <workItem from="1737771019885" duration="15000" />
       <workItem from="1737800392123" duration="4323000" />
       <workItem from="1737863656148" duration="11000" />
-      <workItem from="1737957297112" duration="2944000" />
+      <workItem from="1737957297112" duration="3383000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
