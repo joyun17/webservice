@@ -2,7 +2,10 @@ var main = {
     init : function() {
         var _this = this;
         $('#btn-save').on('click', function (){
-            _this.save();
+            console.log(22222222222222222)
+            if(_this.isValid()){
+                _this.save();
+            }
         });
         $('#btn-update').on('click', function(){
             _this.update();
@@ -12,7 +15,27 @@ var main = {
         })
 
     },
+    isValid : function(){
+        const title = $('#title').val().trim();
+        const content = $('#content').val().trim();
+        console.log(111111111);
+        if(title.length <10){
+
+            alert("제목은 10자 이상 작성해 주세요");
+            return false;
+        }
+        if(content.length<50){
+            alert("내용은 20자 이상 작성해 주세요");
+            return false;
+        }
+        return true;
+
+    },
     save : function (){
+
+
+
+
         var data = {
             title : $('#title').val(),
             author: $('#author').val(),
@@ -71,3 +94,6 @@ var main = {
 };
 
 main.init();
+function registerValid(){
+
+}

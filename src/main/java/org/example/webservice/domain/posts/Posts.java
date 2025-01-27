@@ -6,6 +6,8 @@ import lombok.NoArgsConstructor;
 import org.example.webservice.domain.BaseTimeEntity;
 
 import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.List;
 
 @Getter
 @NoArgsConstructor
@@ -22,6 +24,8 @@ public class Posts extends BaseTimeEntity {
     private String content;
 
     private String author;
+    @OneToMany(mappedBy = "post", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Comments> comments = new ArrayList<>();
 
     @Builder
     public Posts(String  title, String content, String author){
